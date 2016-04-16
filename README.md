@@ -95,12 +95,20 @@ Navigate Rayne from cave to cave taking the dragon’s treasures, but beware the
 
 #Note
  Hold up when starting the game to play on Hard Difficulty
+ 
  If you die on Hard all of you items and gold will be lost
+ 
  Hold up and B when starting to erase the hard save game
+ 
  Hold down and B when starting to erase the normal save game
+ 
  Hold A & B when starting to erase EEPROM
+ 
  Uses 32 bytes of EEPROM
+ 
  Uses the Shadow File System
+ 
   saves game files to empty location
+  
   loads the saved game after finding it anywhere in eprom  
 
