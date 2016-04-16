@@ -12,6 +12,7 @@ Navigate Rayne from cave to cave taking the dragon’s treasures, but beware the
 #Installation
 - download the source code "zip" from github
 - requires Arduboy Library and Arbuboy Playtune Library
+- rename folder to RAYNE_AB
 - open RAYNE_AB.ino with Arduino
 - click the upload button to install to your Arduboy
 
